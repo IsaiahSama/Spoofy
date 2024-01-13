@@ -8,6 +8,9 @@ requests = "*"
 python-dotenv = "*"
 spotipy = "*"
 flask = "*"
+selenium = "*"
+pyautogui = "*"
+opencv-python = "*"
 
 [dev-packages]
 
